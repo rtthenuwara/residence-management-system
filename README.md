@@ -14,3 +14,23 @@ A full-stack desktop application developed using Java and MySQL to manage employ
 
 ## Author
 Rasindu Thenuwara
+
+## Screenshots
+
+### Apartment Management
+![ApartmentManagement](screenshots/ApartmentManagement.png)
+
+### Employee Management
+![EmployeeManagement](screenshots/EmployeeManagement.jpg)
+
+### Maintanance Management
+![MaintananceManagement](screenshots/MaintananceManagement.png)
+
+### Payment Management
+![PaymentManagement](screenshots/PaymentManagement.png)
+
+### Security Management
+![SecurityManagement](screenshots/SecurityManagement.png)
+
+### Tenant Management
+![TenantManagement](screenshots/TenantManagement.png)

@@ -21,7 +21,7 @@ Rasindu Thenuwara
 ![ApartmentManagement](screenshots/ApartmentManagement.png)
 
 ### Employee Management
-![EmployeeManagement](screenshots/EmployeeManagement.jpg)
+![EmployeeManagement](screenshots/Employee Management.jpg)
 
 ### Maintanance Management
 ![MaintananceManagement](screenshots/MaintananceManagement.png)
